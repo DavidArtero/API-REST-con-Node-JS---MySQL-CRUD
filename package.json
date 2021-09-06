@@ -1,0 +1,23 @@
+{
+  "name": "API-REST-con-Node-JS---MySQL-CRUD",
+  "version": "1.0.0",
+  "description": "API REST con Node JS - MySQL | CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidArtero/API-REST-con-Node-JS---MySQL-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidArtero/API-REST-con-Node-JS---MySQL-CRUD/issues"
+  },
+  "homepage": "https://github.com/DavidArtero/API-REST-con-Node-JS---MySQL-CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
