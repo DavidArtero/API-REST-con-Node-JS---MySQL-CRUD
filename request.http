@@ -6,7 +6,20 @@ POST http://localhost:9000/api HTTP/1.1
 Content-Type: application/json
 
 {
-    "titulo": "Primer libro post",
+    "titulo": "Hello",
+    "autor": "Hihih",
+    "edicion": 1
+}
+
+###
+DELETE http://localhost:9000/api/2 HTTP/1.1
+
+###
+PUT http://localhost:9000/api/1 HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "Actualizado",
     "autor": "Stephen Code",
-    "edicion": 6
+    "edicion": 7
 }
